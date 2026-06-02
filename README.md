@@ -19,8 +19,7 @@ and SQL Server.
 - Clean architecture & maintainable codebases
 
 ## 📌 Featured Work
-👉 [enterprise-api](https://github.com/RanveerSidhu/enterprise-api) — ASP.NET Core 9 Web API, Clean Architecture, JWT, Docker 
-👉 API-Driven Business Applications (ASP.NET Core & React)
+👉 [enterprise-api](https://github.com/RanveerSidhu/enterprise-api) — ASP.NET Core 9 Web API, Clean Architecture, JWT, Docker
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/ranveersinghsidhu/)
