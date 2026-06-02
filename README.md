@@ -5,12 +5,17 @@ scalable, API-driven business applications using ASP.NET Core, C#, React,
 and SQL Server.
 
 ## 🔧 Tech Stack
-- ASP.NET Core / Web API
-- C#
-- React
-- SQL Server
-- Entity Framework Core
-- REST APIs
+ - ASP.NET Core
+ - C#
+ - React
+ - JavaScript / TypeScript
+ - SQL Server
+ - Entity Framework Core
+ - Dapper
+ - REST APIs
+ - Docker
+ - GitHub Actions
+ - Azure
 
 ## 🧠 What I Work On
 - Enterprise & business application modernization
@@ -29,3 +34,19 @@ and SQL Server.
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/ranveersinghsidhu/)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanveerSidhu&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanveerSidhu&layout=compact)
+
+🏗️ Architecture & Practices
+
+- Clean Architecture
+- RESTful API Design
+- JWT Authentication
+- SOLID Principles
+- Repository Pattern
+- Database Optimization
+- CI/CD
