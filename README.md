@@ -32,7 +32,7 @@ and SQL Server.
 - Repository Pattern
 - Database Optimization
 - CI/CD
-- 
+   
 ## 📌 Featured Work
 
 | Project | Description | Stack |
