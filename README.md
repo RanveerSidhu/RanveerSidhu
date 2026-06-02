@@ -1,8 +1,6 @@
 # Hi, I'm Ranveer 👋
 
-Senior Full-Stack .NET Developer with 9+ years of experience building
-scalable, API-driven business applications using ASP.NET Core, C#, React,
-and SQL Server.
+Senior Full-Stack .NET Developer with 9+ years of experience designing and building scalable, API-driven business applications using ASP.NET Core, React, SQL Server, Azure, and modern software architecture practices.
 
 ## 🔧 Tech Stack
  - ASP.NET Core
