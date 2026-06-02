@@ -19,7 +19,11 @@ and SQL Server.
 - Clean architecture & maintainable codebases
 
 ## 📌 Featured Work
-👉 [enterprise-api](https://github.com/RanveerSidhu/enterprise-api) — ASP.NET Core 9 Web API, Clean Architecture, JWT, Docker
+
+| Project | Description | Stack |
+|---|---|---|
+| [enterprise-api](https://github.com/RanveerSidhu/enterprise-api) | Production REST API — Clean Architecture, JWT, Docker | ASP.NET Core 9, EF Core, SQL Server |
+| [webtoolgrid](https://github.com/RanveerSidhu/webtoolgrid) | Live calculator web app — [webtoolgrid.com](https://webtoolgrid.com) | React 19, Vite, Tailwind CSS |
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/ranveersinghsidhu/)
