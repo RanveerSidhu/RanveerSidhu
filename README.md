@@ -46,8 +46,8 @@
 
 ## 📫 Get In Touch
 
-I'm actively looking for **Senior .NET / Full-Stack Developer** roles in the UK.  
-Employers who offer visa sponsorship are welcome to reach out.
+Based in India, actively seeking Senior .NET / Full-Stack Developer roles in the UK.
+Open to employers offering Skilled Worker Visa Sponsorship.
 
 - 📧 [ranveer.sidhu91@gmail.com](mailto:ranveer.sidhu91@gmail.com)
 - 💼 [linkedin.com/in/ranveersinghsidhu](https://www.linkedin.com/in/ranveersinghsidhu/)
