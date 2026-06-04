@@ -1,6 +1,6 @@
 # Hi, I'm Ranveer 👋
 
-**Senior Full-Stack .NET Developer** | 9+ years experience | Open to UK-based roles · Visa sponsorship required  
+**Senior Full-Stack .NET Developer** | 9+ years experience | Seeking UK roles · Visa sponsorship required  
 📧 ranveer.sidhu91@gmail.com · [LinkedIn](https://www.linkedin.com/in/ranveersinghsidhu/) · [GitHub](https://github.com/RanveerSidhu)
 
 ---
