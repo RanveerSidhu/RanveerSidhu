@@ -1,7 +1,8 @@
 # Hi, I'm Ranveer 👋
 
-**Senior Full-Stack .NET Developer** | 9+ years experience | Seeking UK roles · Visa sponsorship required  
-📧 ranveer.sidhu91@gmail.com · [LinkedIn](https://www.linkedin.com/in/ranveersinghsidhu/) · [GitHub](https://github.com/RanveerSidhu)
+**Senior Full-Stack .NET Developer** · 9+ years · Based in India · **Seeking UK roles** · Visa sponsorship required
+
+📧 ranveer.sidhu91@gmail.com · [LinkedIn](https://linkedin.com/in/ranveersinghsidhu) · [GitHub](https://github.com/RanveerSidhu)
 
 ---
 
@@ -21,33 +22,48 @@
 
 ---
 
-## 🧠 What I Work On
+## 🧠 What I Build
 
-- Enterprise & business application modernisation
-- API-first system design with Clean Architecture
-- Full-stack trade, payroll, and ERP systems
-- Database performance optimisation (SQL Server, stored procedures)
-- Automated tooling — stock scanners, alert bots, deployment pipelines
+- Enterprise & business application modernisation — legacy systems to .NET 8/9
+- API-first systems with Clean Architecture, JWT auth, and role-based access control
+- Full-stack trade, payroll, and ERP platforms used in production
+- High-performance SQL Server queries, stored procedures, and schema design
+- Automated tooling — stock scanners, Telegram alert bots, deployment pipelines
 
 ---
 
 ## 📌 Featured Work
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [sauda-api](https://github.com/RanveerSidhu/sauda-api) | Trade management REST API — JWT auth, refresh token rotation, dynamic RBAC, stock ledger | ASP.NET Core 8, EF Core, SQL Server |
-| [sauda-ui](https://github.com/RanveerSidhu/sauda-ui) | Trade management React frontend — JWT auth, dynamic sidebar, role-based routing | React 19, Vite, Ant Design, Zustand |
-| [enterprise-api](https://github.com/RanveerSidhu/enterprise-api) | Production REST API template — Clean Architecture, JWT, Docker | ASP.NET Core 9, EF Core, SQL Server |
-| [TerasoftPayroll](https://github.com/RanveerSidhu/TerasoftPayroll) | Payroll & HR ERP system with role-based access and stored procedures | ASP.NET Core MVC, Dapper, SQL Server |
-| [webtoolgrid](https://github.com/RanveerSidhu/webtoolgrid) | Free online calculators — live at [webtoolgrid.com](https://webtoolgrid.com) | React 19, Vite, Tailwind CSS |
-| [StockAlerts](https://github.com/RanveerSidhu/StockAlerts) | AI-powered NSE stock scanner with Telegram alerts, technical analysis, and trade tracking | Python, Telegram Bot API, Railway |
+| Project | Description | Impact | Stack |
+|---|---|---|---|
+| [sauda-api](https://github.com/RanveerSidhu/sauda-api) | Trade management REST API — JWT auth, refresh token rotation, dynamic RBAC, stock ledger | Multi-role system with audit trail & full trade lifecycle | ASP.NET Core 8, EF Core, SQL Server |
+| [enterprise-api](https://github.com/RanveerSidhu/enterprise-api) | Production REST API template — Clean Architecture, JWT, Docker | Clone & deploy in minutes; reused as base for new projects | ASP.NET Core 9, EF Core, SQL Server |
+| [TerasoftPayroll](https://github.com/RanveerSidhu/TerasoftPayroll) | Payroll & HR ERP system with role-based access and stored procedures | Full payroll cycle — employee records, payslips, access tiers | ASP.NET Core MVC, Dapper, SQL Server |
+| [sauda-ui](https://github.com/RanveerSidhu/sauda-ui) | Trade management React frontend — JWT auth, dynamic sidebar, role-based routing | Paired with sauda-api; clean UX with protected routes | React 19, Vite, Ant Design, Zustand |
+| [webtoolgrid](https://github.com/RanveerSidhu/webtoolgrid) | Free online calculators — **live at [webtoolgrid.com](https://webtoolgrid.com)** | Public-facing product with real users | React 19, Vite, Tailwind CSS |
+| [StockAlerts](https://github.com/RanveerSidhu/StockAlerts) | NSE stock scanner — scores 200+ stocks nightly, Telegram alerts with entry/SL/target | Live 24/7 on Railway; v8 with trade tracking & watchlist | Python, Telegram Bot API, Railway |
 
 ---
 
-## 📫 Get In Touch
+## 🌱 Currently Building
 
-Based in India, actively seeking Senior .NET / Full-Stack Developer roles in the UK.
-Open to employers offering Skilled Worker Visa Sponsorship.
+- `StockAlerts` — actively developing v8; live 24/7 on Railway with trade tracking, watchlist monitoring & Telegram alerts
+- `sauda-api` — expanding with portfolio analytics and P&L reporting
+- `enterprise-api` — adding Azure Service Bus integration and Minimal API patterns
+- Exploring `.NET Aspire` for distributed app orchestration
 
-- 📧 [ranveer.sidhu91@gmail.com](mailto:ranveer.sidhu91@gmail.com)
-- 💼 [linkedin.com/in/ranveersinghsidhu](https://www.linkedin.com/in/ranveersinghsidhu/)
+---
+
+## 🇬🇧 Open to UK Opportunities
+
+I'm actively looking for **Senior .NET Developer** or **Senior Full-Stack Developer** roles in the UK.
+
+- ✅ 9+ years of professional experience
+- ✅ Strong background in enterprise systems and API design
+- ✅ Available for interviews immediately
+- ✅ Requires **Skilled Worker Visa Sponsorship**
+
+If your company sponsors visas and is hiring senior .NET talent — let's talk.
+
+📧 **ranveer.sidhu91@gmail.com**
+💼 **[linkedin.com/in/ranveersinghsidhu](https://linkedin.com/in/ranveersinghsidhu)**
